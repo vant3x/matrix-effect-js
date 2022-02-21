@@ -6,7 +6,7 @@ let ch = window.innerHeight;
 
 let charArr = ["A", "L", "E", "J", "O", "V", "8", "0","0"];
 
-let maxCharCount = 100;
+let maxCharCount = 120;
 let fallingCharArr = [];
 let fontSize = 14;
 let maxColumns = cw / fontSize;
